@@ -1,1 +1,1 @@
-# Commit_Seemplicity
+# This repository is created for recruitment process at Commit for Seemplicity
